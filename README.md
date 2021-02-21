@@ -1,5 +1,5 @@
 # Path Finding
-Usage: python main.py _filename_
+Usage: python main.py _file_path_
 
 ## Requirements
 - Your maze should be a _.txt_ file.
