@@ -29,4 +29,4 @@ Usage: python main.py _file_path_
 - Using the heuristic, the node with the lowest manhattan distance (the one estimated to be closest to the end). 
 
 ## Example
-<img src="https://img.absarsy17.repl.co/Capture.PNG" alt="drawing" height = "400"/>
+<img src="img/example.png" alt="drawing" height = "400"/>
