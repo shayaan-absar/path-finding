@@ -20,7 +20,8 @@ Usage: python main.py _file_path_
 - It makes use of a _Stack_ data structure.
 ### Breadth First Search
 - Breadth First Search explores the shallowest possible node.
-- It effectively tries all the possible paths from all the nodes it passes.
+- It essentially tries all the possible paths from all the nodes it passes.
+- It always finds the optimal solution but isn't very effective at doing so.
 - It makes use of a _Queue_ data structure.
 ### Greedy
 - Greedy Search makes use of a _heuristic_ to estimate the distance between a node and the end.
